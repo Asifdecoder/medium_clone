@@ -11,7 +11,7 @@
 .nav {
   height: 11%;
   width: 100%;
-  background-color: rgb(227, 166, 10);
+  background-color: #FFC017;
   position: fixed;
   display: flex;
   justify-content: space-evenly;
